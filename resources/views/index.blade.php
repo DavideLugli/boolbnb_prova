@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     ciao aaaaaa eeeeeeee
+=======
+    ciao sku sku
+>>>>>>> davide
 </body>
 </html>
